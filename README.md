@@ -3,9 +3,9 @@ This repository contains a production‑ready Retrieval‑Augmented Generation (
 
 Key Features
 
-.Document upload and parsing (PDF → chunks → embeddings)
-.Hybrid retrieval: vector search + BM25, optional re‑rank
-.Faithful answers with inline citations and source preview
-.Multilingual question handling (normalize/translate → cite original spans)
-.Metrics and reports: Recall@5, Faithfulness, p95 latency, load test
+.Document upload and parsing (PDF → chunks → embeddings)/
+.Hybrid retrieval: vector search + BM25, optional re‑rank/
+.Faithful answers with inline citations and source preview/
+.Multilingual question handling (normalize/translate → cite original spans)/
+.Metrics and reports: Recall@5, Faithfulness, p95 latency, load test/
 .API docs (OpenAPI) and Postman collection under API Docs/
